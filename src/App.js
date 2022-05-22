@@ -1,0 +1,19 @@
+import * as React from "react";
+import Layout from "./components/layout";
+
+import { SessionProvider } from "next-auth/react";
+
+export default function App() {
+  return (
+    <SessionProvider>
+      <Layout>
+        <h1>NextAuth.js Example</h1>
+        <p>
+          An example site to demonstrate how to use{" "}
+          <a href="https://next-auth.js.org">NextAuth.js</a> for authentication
+          in Gatsby.
+        </p>
+      </Layout>
+    </SessionProvider>
+  );
+}
