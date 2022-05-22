@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# `next-auth` with Create React App
+
+Deploys to Vercel, showing the capabilities of `next-auth` in a serverless, non-Next.js context.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
