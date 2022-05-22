@@ -11,7 +11,7 @@ export default function App() {
         <p>
           An example site to demonstrate how to use{" "}
           <a href="https://next-auth.js.org">NextAuth.js</a> for authentication
-          in Gatsby.
+          in Create React App.
         </p>
       </Layout>
     </SessionProvider>
