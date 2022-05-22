@@ -9,8 +9,8 @@ export default function App() {
       <Layout>
         <h1>NextAuth.js Example</h1>
         <p>
-          An example site to demonstrate how to use
-          <a href="https://next-auth.js.org">NextAuth.js</a> for authentication
+          An example site to demonstrate how to use&nbsp;
+          <a href="https://next-auth.js.org">NextAuth.js</a>&nbsp;for authentication
           in Create React App.
         </p>
       </Layout>
