@@ -9,7 +9,7 @@ export default function App() {
       <Layout>
         <h1>NextAuth.js Example</h1>
         <p>
-          An example site to demonstrate how to use{" "}
+          An example site to demonstrate how to use
           <a href="https://next-auth.js.org">NextAuth.js</a> for authentication
           in Create React App.
         </p>
