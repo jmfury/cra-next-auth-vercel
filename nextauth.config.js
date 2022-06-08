@@ -19,7 +19,7 @@ export const authConfig = {
     }),
   ],
   theme: {
-    logo: "",
+    logo: "/logo192.png",
     colorScheme: "light",
     brandColor: "#663399",
   },
